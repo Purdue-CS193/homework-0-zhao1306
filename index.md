@@ -1,3 +1,10 @@
+# Justin Zhao's Shiny Brand New Website
+### My favoirtie things about CS 193
+- Cool instructor (funny)
+- Laid back class
+- Useful information
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
